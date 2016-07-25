@@ -1,6 +1,6 @@
 {
   "name": "phone-number-fixer",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Phone number fixer and suggester",
   "main": "index.js",
   "scripts": {
