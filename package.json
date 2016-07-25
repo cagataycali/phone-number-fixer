@@ -1,0 +1,27 @@
+{
+  "name": "phone-number-fixer",
+  "version": "1.0.0",
+  "description": "Phone number fixer and suggester",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccali14/phone-number-fixer.git"
+  },
+  "keywords": [
+    "Phone",
+    "number",
+    "fix",
+    "phone",
+    "number",
+    "suggest"
+  ],
+  "author": "Çağatay Çalı",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccali14/phone-number-fixer/issues"
+  },
+  "homepage": "https://github.com/ccali14/phone-number-fixer#readme"
+}
