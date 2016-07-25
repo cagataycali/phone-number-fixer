@@ -1,4 +1,4 @@
-var countryCodes = require('../countryCodes.json');
+var countryCodes = require('./countryCodes.json');
 var PNF = require('google-libphonenumber').PhoneNumberFormat;
 var phoneUtil = require('google-libphonenumber').PhoneNumberUtil.getInstance();
 var pkg = require('./package.json');
