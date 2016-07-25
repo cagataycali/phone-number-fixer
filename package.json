@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/ccali14/phone-number-fixer#readme",
   "dependencies": {
-    "google-libphonenumber": "^1.0.25"
+    "google-libphonenumber": "^1.0.25",
+    "update-notifier": "^1.0.2"
   }
 }
