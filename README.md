@@ -6,7 +6,7 @@ sudo npm i phone-number-fixer --save
 
 # Using
 
-| In demo.js
+(In demo.js)[https://github.com/ccali14/phone-number-fixer/blob/master/demo.js]
 ```
 var phoneNumberFixer = require('phone-number-fixer');
 
